@@ -1,3 +1,5 @@
+touch "usernames.txt"
+touch "passwords.txt"
 set -e
 
 echo "Installing python3....."
